@@ -1,6 +1,6 @@
 ### 👋 Hi there 
 ### 🌱 I’m currently learning Full Stack Java Development
-### 📫 How to reach me: Contact me @ https://www.linkedin.com/in/jayesh-singh-618b22207/ 
+### 📫 How to reach me: https://www.linkedin.com/in/jayesh-singh-618b22207/ 
 
 <!--
 **JayeshSingh27/JayeshSingh27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
