@@ -1,5 +1,5 @@
 ### 👋 Hi there 
-### 🌱 I’m currently learning Full Stack Java Development
+### 🌱 Full Stack Java Developer
 ### 📫 How to reach me: https://www.linkedin.com/in/jayesh-singh-618b22207/ 
 
 <!--
