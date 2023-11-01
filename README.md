@@ -1,7 +1,7 @@
 ### 👋 Hi there 
 ### 🌱 Full Stack Java Developer
 ### 📫 How to reach me: https://www.linkedin.com/in/jayesh-singh-618b22207/ 
-
+### ⚡ My Leetcode Profile: https://leetcode.com/js_27/
 <!--
 **JayeshSingh27/JayeshSingh27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
